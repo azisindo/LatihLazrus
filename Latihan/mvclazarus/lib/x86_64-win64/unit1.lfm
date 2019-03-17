@@ -1,0 +1,27 @@
+object Form1: TForm1
+  Left = 364
+  Height = 394
+  Top = 155
+  Width = 702
+  Caption = 'Form1'
+  LCLVersion = '2.0.0.2'
+  object IBConnection1: TIBConnection
+    Connected = False
+    LoginPrompt = False
+    AfterConnect = IBConnection1AfterConnect
+    KeepConnection = False
+    CheckTransactionParams = False
+    left = 79
+    top = 28
+  end
+  object SQLQuery1: TSQLQuery
+    FieldDefs = <>
+    Params = <>
+    left = 149
+    top = 36
+  end
+  object DataSource1: TDataSource
+    left = 103
+    top = 148
+  end
+end

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="PClassLatihan.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uclasslatihan.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uClassLatihan"/>
+        <TopLine Value="22"/>
+        <CursorPos X="14" Y="29"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="umahasiswa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMahasiswa"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="19" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Users\azis\AppData\Local\Temp\Rar$DIa0.946\main.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="233"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="23" Column="12" TopLine="8"/>
+      </Position1>
+      <Position2>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="18" TopLine="9"/>
+      </Position2>
+      <Position3>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="23" TopLine="9"/>
+      </Position3>
+      <Position4>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="6" TopLine="2"/>
+      </Position4>
+      <Position5>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="28" Column="18" TopLine="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="21" Column="29" TopLine="7"/>
+      </Position6>
+      <Position7>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="34" Column="12" TopLine="19"/>
+      </Position7>
+      <Position8>
+        <Filename Value="umahasiswa.pas"/>
+        <Caret Line="41" Column="28" TopLine="25"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="13" Column="12"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="17" Column="12"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="18" Column="12" TopLine="2"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="19" Column="12" TopLine="3"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="20" Column="12" TopLine="4"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="19" Column="12" TopLine="4"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="21" Column="11" TopLine="14"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="23" Column="11" TopLine="14"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uclasslatihan.pas"/>
+        <Caret Line="41" Column="52" TopLine="30"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

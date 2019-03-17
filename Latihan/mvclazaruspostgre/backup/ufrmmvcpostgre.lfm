@@ -1,0 +1,37 @@
+object FrmMvcPostgre: TFrmMvcPostgre
+  Left = 320
+  Height = 294
+  Top = 191
+  Width = 622
+  Caption = 'Lazarus Mvc Postgre'
+  ClientHeight = 294
+  ClientWidth = 622
+  LCLVersion = '2.0.0.2'
+  object Button1: TButton
+    Left = 64
+    Height = 25
+    Top = 96
+    Width = 75
+    Caption = 'Test Koneksi'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 168
+    Height = 25
+    Top = 96
+    Width = 75
+    Caption = 'Button2'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object DBGrid1: TDBGrid
+    Left = 262
+    Height = 100
+    Top = 47
+    Width = 322
+    Color = clWindow
+    Columns = <>
+    TabOrder = 2
+  end
+end

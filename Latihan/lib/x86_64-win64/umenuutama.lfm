@@ -1,0 +1,29 @@
+object frmUtama: TfrmUtama
+  Left = 280
+  Height = 468
+  Top = 159
+  Width = 935
+  Caption = 'Application :: '
+  ClientHeight = 468
+  ClientWidth = 935
+  LCLVersion = '2.0.0.2'
+  object Panel1: TPanel
+    Left = 0
+    Height = 50
+    Top = 0
+    Width = 935
+    Align = alTop
+    Caption = 'APPLICATION KENDARAAN'
+    Color = clTeal
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+    TabOrder = 0
+  end
+end

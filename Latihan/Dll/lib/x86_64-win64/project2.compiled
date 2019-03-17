@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1297847685"/>
+  <Params Value=" -MObjFPC -Scghi -WR -O1 -g -gl -l -vewnhibq -FiD:\PROJECTKU\lazarus\Dll\lib\x86_64-win64 -FuD:\PROJECTKU\lazarus\Dll\ -FUD:\PROJECTKU\lazarus\Dll\lib\x86_64-win64\ -FED:\PROJECTKU\lazarus\Dll\ -oD:\PROJECTKU\lazarus\Dll\project2.dll project2.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

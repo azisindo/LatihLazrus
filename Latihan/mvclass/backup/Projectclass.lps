@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="16">
+      <Unit0>
+        <Filename Value="Projectclass.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="63"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="100"/>
+        <CursorPos X="3" Y="50"/>
+        <UsageCount Value="63"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="ukoneksidb.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uKoneksiDb"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="36" Y="10"/>
+        <UsageCount Value="63"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uinitpro.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uInitPro"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="43" Y="71"/>
+        <UsageCount Value="63"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="uinitnew.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uInitNew"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos Y="50"/>
+        <UsageCount Value="57"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="udaonew.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDaoNew"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="50" Y="8"/>
+        <UsageCount Value="56"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="ucontrolsystem.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uControlSystem"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="29" Y="8"/>
+        <UsageCount Value="56"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="ugetstatement.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uGetStatement"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="8" Y="19"/>
+        <UsageCount Value="33"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\fcl-db\src\sqldb\sqldb.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3171"/>
+        <CursorPos X="38" Y="3188"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\Users\azis\AppData\Local\Temp\Rar$DIa0.708\Model.Database.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="175"/>
+        <UsageCount Value="8"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\Users\azis\AppData\Local\Temp\Rar$DIa0.413\Model.Invoice.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="23" Y="27"/>
+        <UsageCount Value="8"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\Users\azis\Downloads\Telegram Desktop\receitaws.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\Users\azis\AppData\Local\Temp\Rar$DIa0.610\Model.User.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\Users\azis\AppData\Local\Temp\Rar$DIa0.377\ViewMain.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\Users\azis\AppData\Local\Temp\Rar$DIa0.116\ViewSecondary.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\Users\azis\AppData\Local\Temp\Rar$DIa0.039\Controller.Main.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="79"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
